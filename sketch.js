@@ -62,3 +62,4 @@ function draw(){
     bird.display();
     platform.display();
 }
+this is the text added
